@@ -1,4 +1,4 @@
-<img width="1195" alt="생성한 그룹" src="https://github.com/monkeyDugi/foltube/assets/53487385/deecf991-db73-4797-9efd-c7cf8e9e003c">## 개발 의도
+## 개발 의도
 
 - 심심하기도 하고 풀스택 개발을 해서 유지보수할 프로젝트를 만들고 싶은 것
 프론트는 대충할 것이고 백엔드와 인프라 위주.
